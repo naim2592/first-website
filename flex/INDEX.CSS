@@ -1,0 +1,18 @@
+
+
+
+.parent{
+display: flex;
+gap: 30px;
+justify-content: space-around;
+flex-direction: row;
+flex-wrap: wrap;
+
+
+}
+.child{
+    background-color: darkorange;
+border: 15px ridge aquamarine;
+padding: 20px;
+margin: 10px;
+}
